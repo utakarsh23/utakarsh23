@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Heyy+there!+I'm+Utakarsh+Tripathi;Backend+Developer;Tech+Yapper+and+Problem+Solver)](https://github.com/utakarsh23)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Heyy+there!+I'm+Utakarsh+Tripathi;Backend+Developer)](https://github.com/utakarsh23)
 
 <p align="center">
 <a href="https://github.com/utakarsh23">
@@ -42,11 +42,6 @@ A yapper who can yapp non stop if it's about tech.
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=utakarsh23&theme=dark&layout=compact&langs_count=10&title_color=00d8ff" />
 </p>
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utakarsh23&theme=dark" alt="utakarsh23" /></p>
-  <img src="https://myreadme.vercel.app/api/embed/utakarsh23?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
-</div>
-
 ---
 
 
@@ -55,27 +50,18 @@ A yapper who can yapp non stop if it's about tech.
 
 <div align="center">
 
-  <!-- Core Languages -->
   <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="50"/></a>
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50"/></a>
-
-  <!-- Backend Frameworks -->
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50"/></a>
   <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express" height="50"/></a>
   <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" height="50"/></a>
-
-  <!-- Databases & Messaging -->
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50"/></a>
   <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=redis" alt="Redis" height="50"/></a>
   <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=kafka" alt="Kafka" height="50"/></a>
-
-  <!-- APIs, Tools & Utilities -->
   <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="50"/></a>
   <a href="https://postman.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50"/></a>
   <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50"/></a>
-
-  <!-- Design & Hardware -->
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=arduino" alt="Arduino" height="50"/></a>
 
