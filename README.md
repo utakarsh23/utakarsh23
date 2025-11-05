@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Heyy+there!;I'm+Utakarsh+Tripathi;Backend+Developer)](https://github.com/utakarsh23)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Heyy+there!;++I'm+Utakarsh+Tripathi;+A+Backend+Developer..)](https://github.com/utakarsh23)
 
 <p align="center">
 <a href="https://github.com/utakarsh23">
@@ -67,10 +67,7 @@ A yapper who can yapp non stop if it's about tech.
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS" height="50"/></a>
   <a href="https://soliditylang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=solidity" alt="Solidity" height="50"/></a>
-  <a href="https://hardhat.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=hardhat" alt="Hardhat" height="50"/></a>
-  <a href="https://foundry-rs.github.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=foundry" alt="Foundry" height="50"/></a>
   <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="50"/></a>
-  <a href="https://grpc.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=grpc" alt="gRPC" height="50"/></a>
   <a href="https://postman.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50"/></a>
   <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50"/></a>
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50"/></a>
@@ -85,31 +82,16 @@ A yapper who can yapp non stop if it's about tech.
 
 <h3 align="center">Connect with Me</h3>
 
-<p align="center" style="margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/tripathiutakarsh/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" 
-         alt="LinkedIn" 
-         height="55" 
-         style="margin: 15px; border-radius: 12px; transition: all 0.3s ease-in-out; box-shadow: 0 0 10px rgba(0, 200, 255, 0.0);" 
-         onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 0 20px rgba(0, 200, 255, 0.7)';" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px rgba(0, 200, 255, 0.0)';"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tripathiutakarsh/" target="_blank" style="text-decoration:none;">
+    <b> LinkedIn </b>
   </a>
-
-  <a href="https://github.com/utakarsh23" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=github" 
-         alt="GitHub" 
-         height="55" 
-         style="margin: 15px; border-radius: 12px; transition: all 0.3s ease-in-out; box-shadow: 0 0 10px rgba(0, 200, 255, 0.0);" 
-         onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 0 20px rgba(0, 200, 255, 0.7)';" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px rgba(0, 200, 255, 0.0)';"/>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/utakarsh23" target="_blank" style="text-decoration:none;">
+    <b> GitHub </b>
   </a>
-
-  <a href="https://leetcode.com/u/Utkarsh_Mani/" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
-         alt="LeetCode" 
-         height="50" 
-         style="margin: 15px; border-radius: 12px; filter: brightness(0) invert(1); transition: all 0.3s ease-in-out; box-shadow: 0 0 10px rgba(0, 200, 255, 0.0);" 
-         onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 0 20px rgba(0, 200, 255, 0.7)';" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px rgba(0, 200, 255, 0.0)';"/>
+  &nbsp;•&nbsp;
+  <a href="https://leetcode.com/u/Utkarsh_Mani/" target="_blank" style="text-decoration:none;">
+    <b> LeetCode </b>
   </a>
 </p>
