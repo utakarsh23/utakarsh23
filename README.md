@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Heyy+there!;++_I'm+Utakarsh+Tripathi;_+A+Backend+Developer..)](https://github.com/utakarsh23)
+<p align="center">
+  <a href="https://github.com/utakarsh23">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&width=600&lines=Heyy+there!;I'm+Utakarsh+Tripathi;A+Backend+Developer.." alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
 <a href="https://github.com/utakarsh23">
