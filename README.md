@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Heyy+there!;++I'm+Utakarsh+Tripathi;+A+Backend+Developer..)](https://github.com/utakarsh23)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Heyy+there!;++_I'm+Utakarsh+Tripathi;_+A+Backend+Developer..)](https://github.com/utakarsh23)
 
 <p align="center">
 <a href="https://github.com/utakarsh23">
@@ -72,7 +72,6 @@ A yapper who can yapp non stop if it's about tech.
   <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50"/></a>
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50"/></a>
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50"/></a>
-  <a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=canva" alt="Canva" height="50"/></a>
   <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=electron" alt="Electron" height="50"/></a>
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50"/></a>
   <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=numpy" alt="NumPy" height="50"/></a>
