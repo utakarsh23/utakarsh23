@@ -33,7 +33,7 @@ A yapper who can yapp non stop if it's about tech.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utakarsh23&bg_color=0d1117&color=00d8ff&line=00d8ff&point=ffffff&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utakarsh23&theme=tokyonight"/>
 </p>
 
 ---
